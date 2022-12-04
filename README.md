@@ -1,2 +1,5 @@
 # DiceRoller
-Google Codelabs: Android Kotlin Fundamentals 01.2: Anatomy of Basic Android Project
+Android Kotlin Fundamentals:
+- Pathway 2: Build an Interactive App
+
+https://developer.android.com/codelabs/kotlin-android-training-welcome?hl=en
